@@ -40,7 +40,7 @@ so here's my completely arbritrary stack.
 Org or Project|Categories|Builds on|Type|Notes
 ---|-------|----|----|-----
 Altermundi|Implementers|Libremesh|?|Argentina, Mexico remote villages
-Asanka|Package|?|For Profit ?|
+ASANKA|Platform|Web 2.0|For Profit|myasanka.com, West Africa
 Blupoint|Platform?|?|?|Audio only
 Bibliotechs Sans Frontiers|Platform|?|Non profit|
 Bluetown|Platform / Implementers|?|For Profit|
